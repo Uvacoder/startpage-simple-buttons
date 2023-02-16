@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Vercel',
-			icon: 'youtube',
+			icon: 'activity',
 			link: 'https://vercel.com/uvacoder',
 		},
 	],

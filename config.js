@@ -66,8 +66,8 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Gists',
-			icon: 'ttps://gists.com/uvacoder',
-			link: 'https://todoist.com',
+			icon: 'truck',
+			link: 'https://gists.com/uvacoder',
 		},
 		{
 			id: '4',

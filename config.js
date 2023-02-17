@@ -11,19 +11,19 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'FatAss',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Wake up!',
+	greetingAfternoon: 'It only noon,',
+	greetingEvening: 'Monsters come out in dark,',
+	greetingNight: 'Why are you awake!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '9f43463f2f8eb40b6df87c0facba61ee', // Write here your API Key
@@ -59,72 +59,72 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Vercel',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://vercel.com/uvacoder',
 		},
 		{
 			id: '3',
-			name: 'Gists',
-			icon: 'truck',
-			link: 'https://gists.com/uvacoder',
+			name: 'Mastadon',
+			icon: 'server',
+			link: 'https://mastodon.social/@uvacoder',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Notion',
+			icon: 'list',
+			link: 'https://notion.so',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Slack',
+			icon: 'slack',
+			link: 'https://app.slack.com/client/T0266FRGM/D049HS9GB0W',
 		},
 		{
 			id: '6',
-			name: 'Vercel',
-			icon: 'activity',
-			link: 'https://vercel.com/uvacoder',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.protonmail.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Codepen',
+			icon: 'codepen',
+			link: 'https://codepen.io/uvacoder',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
+			name: 'Codesandbox',
+			icon: 'codesandbox',
 			link: 'https://twitter.com/',
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Stackblitz',
+			icon: 'dribbble',
+			link: 'https://dribbble.com/uvacoder',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Dribbble',
+			icon: 'dribbble',
+			link: 'https://dribbble.com/uvacoder',
 		},
 		{
 			id: '5',
 			name: 'Hashnode',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://hashnode.com/@uvacoder',
 		},
 		{
 			id: '6',
 			name: 'Figma',
 			icon: 'figma',
-			link: 'https://figma.com/',
+			link: 'https://www.figma.com/@uvacoder',
 		},
 	],
 

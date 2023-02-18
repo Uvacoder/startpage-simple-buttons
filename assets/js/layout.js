@@ -10,6 +10,9 @@ const generateLayout = () => {
 	let secondButtonsContainer = `
     <div class="buttonsContainer" id="buttons_2"></div>
   `;
+	let thirdButtonsContainer = `
+    <div class="buttonsContainer" id="buttons_3"></div>
+  `;
 	let firstListsContainer = `
     <div class="listsContainer" id="lists_1"></div>
   `;

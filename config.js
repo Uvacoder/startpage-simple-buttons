@@ -127,6 +127,45 @@ const CONFIG = {
 			link: 'https://www.figma.com/@uvacoder',
 		},
 	],
+	
+	thirdButtonsContainer: [
+		{
+			id: '1',
+			name: 'Codepen',
+			icon: 'codepen',
+			link: 'https://codepen.io/uvacoder',
+		},
+		{
+			id: '2',
+			name: 'Codesandbox',
+			icon: 'codesandbox',
+			link: 'https://twitter.com/',
+		},
+		{
+			id: '3',
+			name: 'Stackblitz',
+			icon: 'dribbble',
+			link: 'https://dribbble.com/uvacoder',
+		},
+		{
+			id: '4',
+			name: 'Dribbble',
+			icon: 'dribbble',
+			link: 'https://dribbble.com/uvacoder',
+		},
+		{
+			id: '5',
+			name: 'Hashnode',
+			icon: 'pen-tool',
+			link: 'https://hashnode.com/@uvacoder',
+		},
+		{
+			id: '6',
+			name: 'Figma',
+			icon: 'figma',
+			link: 'https://www.figma.com/@uvacoder',
+		},
+	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
